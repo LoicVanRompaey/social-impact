@@ -18,6 +18,8 @@ http://www.tooplate.com/view/2111-pro-line
     color: darkorange;
 }
 
+.bold{font-weight: bold;}
+
 body {
     font-family: "Open Sans", sans-serif;
     font-size: 17px;
