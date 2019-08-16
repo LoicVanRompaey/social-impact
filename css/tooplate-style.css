@@ -95,7 +95,7 @@ p:last-child {
     position: fixed;
     top: 0;
     border-top: none;
-    background: white;
+    background: darkorange;
 }
 
 .navbar-expand-md .navbar-nav .nav-link {
